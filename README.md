@@ -1,8 +1,6 @@
 # Fly Detector
 
-<img src="runs/detect/train/train_batch1.jpg" style="width:45%; display:inline-block;" />
-<img src="runs/detect/train/train_batch2.jpg" style="width:45%; display:inline-block;" />
-
+<img src="runs/detect/train/train_batch1.jpg"/>
 
 Small YOLOv8 example detecting flying objects. Trained on few images, it can analyze videos in real time. For demo and experimentation purposes.
 
