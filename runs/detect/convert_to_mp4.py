@@ -11,4 +11,4 @@ for file in os.listdir(input_folder):
         output_path = os.path.join(output_folder, f"predicted{file.replace(".avi", ".mp4")}")
         clip = VideoFileClip(input_path)
         clip.write_videofile(output_path, codec="libx264")
-        print(f"{file} convertido para MP4")
+        print(f"{file} convertido para MP4.")
