@@ -2,8 +2,6 @@
 
 Small YOLOv8 example detecting flying objects. Trained on few images, it can analyze videos in real time. For demo and experimentation purposes.
 
-<img src="runs/detect/train/train_batch2.jpg" />
-
 ## Technologies
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
