@@ -2,15 +2,12 @@
 
 - Criar o dataset com as imagens
     - Baixar as imagens
-    - Baixar e instalar o labelImg
+    - Criar as classes
     - Anotar as imagens
     - Dividir as imagens em treino e teste
 - Configurar o arquivo data
-- Configurar o arquivo cfg
-- Trinar o modelo personalizado (YOLO)
+- Treinar o modelo personalizado (YOLO)
 - Testar o modelo
-
-https://github.com/HumanSignal/labelImg
 
 yolo detect train model=yolov8n.pt data=dataset/data.yaml epochs=50 imgsz=640 augment=true
 
