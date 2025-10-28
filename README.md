@@ -12,6 +12,6 @@
 
 https://github.com/HumanSignal/labelImg
 
-yolo detect train data=dataset/data.yaml model=yolov8n.pt epochs=10 imgsz=640
+yolo detect train model=yolov8n.pt data=dataset/data.yaml epochs=50 imgsz=640 augment=true
 
 yolo detect predict model=runs/detect/train/weights/best.pt source=videos 
