@@ -4,6 +4,12 @@ Small YOLOv8 example detecting flying objects. Trained on few images, it can ana
 
 <img src="runs/detect/train/train_batch1.jpg" width="1000" height="300"/>
 
+## Technologies
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-red?style=for-the-badge&logo=yolo&logoColor=white)](https://github.com/AlexeyAB/darknet)
+[![MakeSense.ai](https://img.shields.io/badge/MakeSense.ai-FF6F61?style=for-the-badge&logo=makesense&logoColor=white)](https://www.makesense.ai/)
+
 ## Passos para o desenvolvimento do software
 
 - Criar o dataset com as imagens
