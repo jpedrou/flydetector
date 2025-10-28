@@ -2,7 +2,7 @@
 
 Small YOLOv8 example detecting flying objects. Trained on few images, it can analyze videos in real time. For demo and experimentation purposes.
 
-<img src="runs/detect/train/train_batch1.jpg" width="1000" height="300"/>
+<img src="runs/detect/train/train_batch2.jpg" width="1000" height="300"/>
 
 ## Technologies
 
