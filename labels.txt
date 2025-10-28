@@ -1,0 +1,5 @@
+airplane
+drone
+helicopter
+bird
+ovni
